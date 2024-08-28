@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Prantar Borah</h1>
 <h3 align="center">Computational Data Scientist @Purdue University</h3>
 
-- 🔭 I’m currently working on **Stock Market Analysis through Covid-19 timeline**
+- 🔭 I’m currently working on **Food App Chat-Bot called SwigMato**
 
-- 🌱 I’m currently learning **Deep Learning, Large Language Models, RAGs**
+- 🌱 I’m currently learning **Deep Learning, Large Language Models**
 
-- 👯 I’m looking to collaborate on **Rain Forecasting using ARIMA/SARIMA models**
+- 👯 I’m looking to collaborate on **Diffusion Models**
 
 - 👨‍💻 All of my projects are available at [https://github.com/PrantarBorah](https://github.com/PrantarBorah)
 
