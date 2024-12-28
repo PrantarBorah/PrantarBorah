@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Prantar Borah</h1>
 <h3 align="center">Computational Data Scientist @Purdue University</h3>
 
-- 🔭 I’m currently working on **Food App Chat-Bot called SwigMato**
+- 🔭 I’m currently working on **Integration of Google GraphCast for flood prediction systems**
 
 - 🌱 I’m currently learning **Deep Learning, Large Language Models**
 
@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/PrantarBorah](https://github.com/PrantarBorah)
 
-- 💬 Ask me about **Time Series Forecasting, Natural Language Processing**
+- 💬 Ask me about **Time Series Forecasting, Natural Language Processing, Machine Learning**
 
 - 📫 How to reach me **prantarborah2015@gmail.com**
 
