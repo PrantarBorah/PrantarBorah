@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Prantar Borah</h1>
 <h3 align="center">Computational Data Scientist @Purdue University</h3>
 
-- 🔭 I’m currently working on **Integration of Google GraphCast for flood prediction systems**
+- 🔭 I’m currently working on **Crop Health Monitoring Systems**
 
 - 🌱 I’m currently learning **Deep Learning, Large Language Models**
 
