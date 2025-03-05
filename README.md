@@ -3,13 +3,13 @@
 
 - 🔭 I’m currently working on **Crop Health Monitoring Systems**
 
-- 🌱 I’m currently learning **Deep Learning, Large Language Models**
+- 🌱 I’m currently learning **Cloud Integration, Agentic AI**
 
-- 👯 I’m looking to collaborate on **Diffusion Models**
+- 👯 I’m looking to collaborate on **Agentic AI**
 
 - 👨‍💻 All of my projects are available at [https://github.com/PrantarBorah](https://github.com/PrantarBorah)
 
-- 💬 Ask me about **Time Series Forecasting, Natural Language Processing, Machine Learning**
+- 💬 Ask me about **Deep Learning, Natural Language Processing, Machine Learning**
 
 - 📫 How to reach me **prantarborah2015@gmail.com**
 
